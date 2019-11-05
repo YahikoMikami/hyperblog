@@ -11,11 +11,7 @@ body
 
 #cabecera
 {
-<<<<<<< HEAD
-    background: orange;
-=======
     background:seagreen;
->>>>>>> cabecera
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
@@ -41,7 +37,7 @@ body
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid black;
     margin: 0 auto;
 }
 
